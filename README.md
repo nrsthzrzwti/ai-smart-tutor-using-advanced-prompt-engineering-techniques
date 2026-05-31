@@ -1,0 +1,2 @@
+# ai-smart-tutor-using-advanced-prompt-engineering-techniques
+This project aims to develop an AI-powered smart tutor by leveraging advanced prompt engineering techniques. The project focuses on designing, implementing, and evaluating various prompting strategies to control AI behavior and generate consistent, reliable, and educationally relevant outputs. Students will explore different prompting methods, comp
